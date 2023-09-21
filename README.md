@@ -17,4 +17,4 @@
 7. Сделайте разные фикстуры для каждого теста.
 
 ## Решение
-[Autotest for GitHub with Python Parameters](https://github.com/Frunzelen/QA_guru_python_6_15.html)
+[Autotest for GitHub with Python Parameters](https://github.com/Frunzelen/QA_guru_python_6_15)
